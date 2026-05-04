@@ -1,0 +1,18 @@
+.evn
+.env.*
+*.env
+# Azure credentials
+azureauth.json
+local.settings.json
+
+# Key files
+.pem
+.key
+.pfx
+.p12
+
+#IDE files
+.vscode/settings.json
+
+# OS files
+Thumbs.db
